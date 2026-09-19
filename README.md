@@ -51,7 +51,7 @@ A comprehensive, curated list of enterprise **SaaS products** and **Open-Source 
 
 Below is a star-ranked list of top open-source manufacturing ERP, production planning, and material management engines available on GitHub.
 
-| Repository & Link | GitHub Stars_Count ⭐ | License 📜 | Tech Stack 💻 | Description & Key Features 🚀 |
+| Repository & Link | GitHub_Stars_Count ⭐ | License 📜 | Tech Stack 💻 | Description & Key Features 🚀 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo Community](https://github.com/odoo/odoo)** | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | World's leading modular open-source suite featuring production planning, work orders, BOM, and inventory apps. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, Frappe, MariaDB | Full-featured 100% open-source ERP with out-of-the-box MRP, BOM versioning, subcontracting, and shop-floor tracking. |
